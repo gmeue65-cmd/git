@@ -1,0 +1,13 @@
+EuniprincezProject/
+│
+├── euniprincez/                # Carpeta con tu código fuente de Python
+│   ├── __init__.py
+│   └── main.py
+│
+├── docs/                       # Carpeta exclusiva de documentación
+│   ├── conf.py                 # Configuración de Sphinx
+│   ├── index.rst               # Página de inicio de la documentación
+│   └── especificacion.rst      # Aquí meterás todo tu texto técnico y el EULA
+│
+├── README.md                   # Descripción rápida del repositorio
+└── setup.py                    # Configuración de instalación del paquete
