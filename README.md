@@ -1,3 +1,5 @@
+# 🏦 Euniprincez Digital v2026  **Euniprincez Digital v2026** es una arquitectura de software y telecomunicaciones diseñada bajo el principio de **Única Fuente de Verdad (Single Source of Truth)**. Integra una base de datos centralizada SQLite, una API REST con FastAPI, capacidad de reporte visual mediante Matplotlib y cumplimiento del protocolo **Model Context Protocol (MCP)** para agentes de Inteligencia Artificial.  ---  ## 📄 Propiedad Intelectual y Licencia  * **Nombre del Software / Proyecto:** Euniprincez Digital v2026 * **Titular de los Derechos de Autor:** Juan Valentín García Espinoza * **Identificación Oficial del Autor:** ID GAEJ940310HSPRSN02 * **Licencia:** GNU General Public License v3.0 (GPLv3)  ```python #  Proyecto: Euniprincez Digital v2026 #  Copyright (C) 2026 Juan Valentín García Espinoza (ID: GAEJ940310HSPRSN02) #  Licencia: GNU GPL v3
+
 [![Build status](https://github.com/git/git/workflows/CI/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
 
 Git - fast, scalable, distributed revision control system
